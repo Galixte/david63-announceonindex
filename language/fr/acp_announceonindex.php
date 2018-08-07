@@ -54,7 +54,7 @@ $lang = array_merge($lang, array(
 	'SHOW_ANNOUNCEMENTS'			=> 'Afficher les annonces',
 	'SHOW_ANNOUNCEMENTS_EXPLAIN'	=> 'Permet d’afficher toutes les annonces sur la page de l’index du forum.',
 	'SHOW_GLOBAL_ICON'				=> 'Afficher l’icône globale de sujet des annonces globales',
-	'SHOW_GLOBAL_ICON_EXPLAIN'		=> 'Permet d’afficher l’icône globale de sujet pour les annonces globales.<br /><strong>Information Ø cette option doit être désactivé si aucune icône globale de sujet n’est associée au style.</strong>',
+	'SHOW_GLOBAL_ICON_EXPLAIN'		=> 'Permet d’afficher l’icône globale de sujet pour les annonces globales.<br /><strong>Information : cette option doit être désactivé si aucune icône globale de sujet n’est associée au style.</strong>',
 	'SHOW_GLOBALS'					=> 'Afficher les annonces globales',
 	'SHOW_GLOBALS_EXPLAIN'			=> 'Permet d’afficher toutes les annonces globales sur la page de l’index du forum.',
 
